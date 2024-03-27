@@ -20,6 +20,7 @@ Outline and justify how your level design facilitates the core player experience
 
 ### 1.1. Discovery
 What does the player learn? How does your encounter and broader level design facilitate learning in a way that follows good design practice?
+When the player boots up the game, they are spawned in the first section of the level. This is the easiest level to complete because it has a simple showcase of just platforms and spikes to jump over. As the player progresses throughout the final stages of the first section, they will be greeted with more objects and obstacles with varied parameters.
 
 ### 1.2. Drama
 What is the intensity curve? How does your design facilitate increasing yet modulating intensity, with moments of tension and relief? 
