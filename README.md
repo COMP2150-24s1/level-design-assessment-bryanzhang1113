@@ -20,7 +20,7 @@ Outline and justify how your level design facilitates the core player experience
 
 ### 1.1. Discovery
 What does the player learn? How does your encounter and broader level design facilitate learning in a way that follows good design practice?
-When the player boots up the game, they are spawned in the first section of the level. This is the easiest level to complete because it is a simple form of parkour, with hazardous acid to jump over as the player progress throughout the section. Near the final part of the section, the pink spikes are introduced to the player. There are a total of 4 checkpoints and 3 health crates for the player should they struggle.
+- When the player boots up the game, they are spawned in the first section of the level. This is the easiest level to complete because it is a simple form of parkour, with hazardous acid to jump over as the player progress throughout the section. Near the final part of the section, the pink spikes are introduced to the player. There are a total of 4 checkpoints and 3 health crates for the player should they struggle.
 
 ### 1.2. Drama
 What is the intensity curve? How does your design facilitate increasing yet modulating intensity, with moments of tension and relief? 
@@ -30,7 +30,7 @@ What are the main challenges? How have you designed and balanced these challenge
 
 ### 1.4. Exploration
 How does your level design facilitate autonomy and invite the player to explore? How do your aesthetic and layout choices create distinct and memorable spaces and/or places?
-The level uses shortcuts and reoccurrences to 
+- The level has different paths to take, allowing decision making available for the player.
 
 ## 2. Core Gameplay (~400 words)
 A section on Core Gameplay, where storyboards are used to outline how you introduce the player to each of the required gameplay elements in the first section of the game. Storyboards should follow the format provided in lectures.
