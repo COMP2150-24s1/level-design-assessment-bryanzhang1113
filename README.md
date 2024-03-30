@@ -27,6 +27,14 @@ What is the intensity curve? How does your design facilitate increasing yet modu
 
 ### 1.3. Challenge
 What are the main challenges? How have you designed and balanced these challenges to control the difficulty curve and keep the player in the flow channel?
+- Section 1
+In section 1
+- Section 2
+- Section 3
+navigating through platforms while avoiding enemies and obstacles
+finding the switch to activate the door
+- Keys
+I have placed each key in a specific location of each section that requires the player to explore further and think outside the box 
 
 ### 1.4. Exploration
 How does your level design facilitate autonomy and invite the player to explore? How do your aesthetic and layout choices create distinct and memorable spaces and/or places?
@@ -43,23 +51,21 @@ You should restructure the headings below to match the order they appear in your
 
 ### 2.2. Checkpoints
 
-### 2.3. Chompers
-
 ### 2.4. Health Pickups
 
 ### 2.5. Keys
+
+### 2.11. Weapon Pickup (Staff)
+
+### 2.3. Chompers
+
+### 2.8. Spikes
 
 ### 2.6. Moving Platforms
 
 ### 2.7. Passthrough Platforms
 
-### 2.8. Spikes
-
 ### 2.9. Spitters
-
-### 2.10. Weapon Pickup (Gun)
-
-### 2.11. Weapon Pickup (Staff)
 
 ## 3. Spatiotemporal Design
 A section on Spatiotemporal Design, which includes your molecule diagram and annotated level maps (one for each main section of your level). These diagrams may be made digitally or by hand, but must not be created from screenshots of your game. The annotated level maps should show the structure you intend to build, included game elements, and the path the player is expected to take through the level. Examples of these diagrams are included in the level design lectures.
