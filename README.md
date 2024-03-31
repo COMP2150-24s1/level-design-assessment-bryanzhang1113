@@ -23,7 +23,8 @@ What does the player learn? How does your encounter and broader level design fac
 - When the player boots up the game, they are spawned in the first section of the level. This is the easiest level to complete because it is a simple form of parkour, with hazardous acid to jump over as the player progress throughout the section. Near the final part of the section, the pink spikes are introduced to the player. There are a total of 4 checkpoints and 3 health crates for the player should they struggle.
 
 ### 1.2. Drama
-What is the intensity curve? How does your design facilitate increasing yet modulating intensity, with moments of tension and relief? 
+What is the intensity curve? How does your design facilitate increasing yet modulating intensity, with moments of tension and relief?
+- The intensity curve is a graph that depicts the stress level for a videogame. For my level, I have structured my sections so that there is relief when obtaining a health box and maximum stress during the middle of the section. 
 
 ### 1.3. Challenge
 What are the main challenges? How have you designed and balanced these challenges to control the difficulty curve and keep the player in the flow channel?
@@ -34,7 +35,7 @@ In section 1
 navigating through platforms while avoiding enemies and obstacles
 finding the switch to activate the door
 - Keys
-I have placed each key in a specific location of each section that requires the player to explore further and think outside the box 
+I have placed each key in a specific location of each section that requires the player to explore further should they choose to skip its path. I have placed areas where players can choose their own path to go through.  
 
 ### 1.4. Exploration
 How does your level design facilitate autonomy and invite the player to explore? How do your aesthetic and layout choices create distinct and memorable spaces and/or places?
@@ -48,14 +49,19 @@ Storyboards can be combined when multiple mechanics are introduced within a sing
 You should restructure the headings below to match the order they appear in your level.
 
 ### 2.1. Acid
+- I used acid pools primarily in section 1 to allow the player to learn and utilise the jumping mechanic. As they get familiar and complete section 1, I have acid pools reoccuring in section 3.
 
 ### 2.2. Checkpoints
+- Checkpoints are in place for stress relief and saving the player's time to redo specific areas of sections.
 
 ### 2.4. Health Pickups
+- They are placed in safe areas but some are more difficult to obtain.
 
 ### 2.5. Keys
+- I have placed them in specific areas where they are easily viewed from another section. This is to allow players to memorise the location of the keys so they know what to look for when they are close to each key.
 
 ### 2.11. Weapon Pickup (Staff)
+- I have placed this at the beginning of the third section so that players now know they must use this weapon to kill the chompers.
 
 ### 2.3. Chompers
 
