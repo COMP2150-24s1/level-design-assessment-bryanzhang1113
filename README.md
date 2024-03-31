@@ -8,12 +8,8 @@ This document discusses and reflects on the design of your platformer level for 
 Your document must include images. To insert an image into your documentation, place it in the "DocImages" folder in this repo, then place the below text where you want the image to appear:
 
 ```
-![Place any alt text here](DocImages/<IMAGE NAME AND FILE EXTENSION>)
+!Design Sketches for section 1 and 2 (DocImages/Design Draft section 1 & 2.pdf)
 ```
-
-Example:
-
-![This is the alt text for an image!](DocImages/exampleimage.png)
 
 ## 1. Player Experience (~700 words)
 Outline and justify how your level design facilitates the core player experience goals outlined in the assignment spec. Each section should be supported by specific examples and screenshots of your game encounters that highlight design choices made to facilitate that particular experience.
