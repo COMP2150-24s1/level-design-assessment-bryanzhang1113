@@ -7,9 +7,19 @@ This document discusses and reflects on the design of your platformer level for 
 
 Your document must include images. To insert an image into your documentation, place it in the "DocImages" folder in this repo, then place the below text where you want the image to appear:
 
-```
-![Design Sketches for section 1 and 2](DocImages/Design Draft section 1 & 2.pdf)
-```
+![Design draft section 1 and 2](DocImages/DDs1&s2.pdf)
+![Design draft section 3](DocImages/DDs3.pdf)
+![Entire level zoomed out](DocImages/entireLevel.png)
+![Section 1 part a](DocImages/s1PartA.png)
+![Section 1 part b](DocImages/s1PartB.png)
+![Section 1 part c](DocImages/s1PartC.png)
+![Section 2 part a](DocImages/s2PartA.png)
+![Section 2 part b](DocImages/s2PartB.png)
+![Section 2 part c](DocImages/s2PartC.png)
+![Section 3 part a](DocImages/s3PartA.png)
+![Section 3 part b](DocImages/s3PartB.png)
+![Section 3 part c](DocImages/s3PartC.png)
+
 
 ## 1. Player Experience (~700 words)
 Outline and justify how your level design facilitates the core player experience goals outlined in the assignment spec. Each section should be supported by specific examples and screenshots of your game encounters that highlight design choices made to facilitate that particular experience.
@@ -17,7 +27,7 @@ Outline and justify how your level design facilitates the core player experience
 ### 1.1. Discovery
 What does the player learn? How does your encounter and broader level design facilitate learning in a way that follows good design practice?
 For section one, The player learns about the jump mechanic. This knowledge is required because section one is a simple form of parkour with hazardous acid to jump over. If the player touches the acid, they will respawn back at the beginning or at any checkpoints the player has reached. The section starts off with small gaps of acid between each platform so that the player can easily get familiar with the controls. As they progress, the platforms will be wider apart. This will engage the player to learn that holding down spacebar will increase the player's jump height, resulting in more distance covered. There are also healthboxes underneath the first part of section one should the player take any damage.
-For section two, the player will encounter the staff weapon pickup. This entices them to understand that there will be chompers nearby and must use this weapon to get rid of them. Players can also attempt to jump over the chompers, but then they will encounter spikes. Spikes are introduced in the second level as an extra obstacle for the players to avoid while battling chompers. Players will be punished for jumping over chompers since there are spikes above them.
+For section two, the player will encounter the staff weapon pickup. This entices them to understand that there will be chompers nearby and must use the staff to get rid of them. Players can also attempt to jump over the chompers, but then they will encounter spikes. Spikes are introduced in the second level as an extra obstacle for the players to avoid while battling chompers. Players will be punished for jumping over chompers in certain areas where there are spikes above them. 
 For section three
 
 ### 1.2. Drama
