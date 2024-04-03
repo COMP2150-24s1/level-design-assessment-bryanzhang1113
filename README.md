@@ -7,8 +7,6 @@ This document discusses and reflects on the design of your platformer level for 
 
 Your document must include images. To insert an image into your documentation, place it in the "DocImages" folder in this repo, then place the below text where you want the image to appear:
 
-![Design draft section 1 and 2](DocImages/DDs1&s2.pdf)
-![Design draft section 3](DocImages/DDs3.pdf)
 ![Entire level zoomed out](DocImages/entireLevel.png)
 ![Section 1 part a](DocImages/s1PartA.png)
 ![Section 1 part b](DocImages/s1PartB.png)
@@ -20,15 +18,19 @@ Your document must include images. To insert an image into your documentation, p
 ![Section 3 part b](DocImages/s3PartB.png)
 ![Section 3 part c](DocImages/s3PartC.png)
 
+![Example 1](DocImages/1.mp4)
+
 
 ## 1. Player Experience (~700 words)
 Outline and justify how your level design facilitates the core player experience goals outlined in the assignment spec. Each section should be supported by specific examples and screenshots of your game encounters that highlight design choices made to facilitate that particular experience.
 
 ### 1.1. Discovery
 What does the player learn? How does your encounter and broader level design facilitate learning in a way that follows good design practice?
-For section one, The player learns about the jump mechanic. This knowledge is required because section one is a simple form of parkour with hazardous acid to jump over. If the player touches the acid, they will respawn back at the beginning or at any checkpoints the player has reached. The section starts off with small gaps of acid between each platform so that the player can easily get familiar with the controls. As they progress, the platforms will be wider apart. This will engage the player to learn that holding down spacebar will increase the player's jump height, resulting in more distance covered. There are also healthboxes underneath the first part of section one should the player take any damage.
+For section one, The player learns about the jump mechanic. This knowledge is required because section one is a simple form of parkour with hazardous acid to jump over. If the player touches the acid, they will respawn back at the beginning or at any checkpoints the player has reached. The section starts off with small gaps of acid between each platform so that the player can easily get familiar with the controls. As they progress, the platforms will be wider apart. This is shown in EXAMPLE1 where the player does not jump far enough and falls into the acid pit. This will engage the player to learn that holding down spacebar will increase the player's jump height, resulting in more distance covered. There are also healthboxes underneath the first part of section one should the player take any damage.
+
 For section two, the player will encounter the staff weapon pickup. This entices them to understand that there will be chompers nearby and must use the staff to get rid of them. Players can also attempt to jump over the chompers, but then they will encounter spikes. Spikes are introduced in the second level as an extra obstacle for the players to avoid while battling chompers. Players will be punished for jumping over chompers in certain areas where there are spikes above them. After players complete the first part of section two, they will find the gun weapon. This will entice them to use the gun on nearby chompers, but also trigger switches as they are the only method to open doors. Thus, they will go and find which switches open up to the key door room and/or the key.
-For section three,
+
+Section three is a combination of both section one and two. After players complete the moving platform part, they will have to navigate through a tunnel-like environment full of obstacles and enemies. There is also a door that needs to be opened, encouraging players to go look for the switch. Players will also learn that not all platforms can be reached, since there are spikes physically blocking their path, players to realise they must go a specific way to navigate section three.
 
 ### 1.2. Drama
 What is the intensity curve? How does your design facilitate increasing yet modulating intensity, with moments of tension and relief?
@@ -56,48 +58,32 @@ A section on Core Gameplay, where storyboards are used to outline how you introd
 
 Storyboards can be combined when multiple mechanics are introduced within a single encounter. Each section should include a sentence or two to briefly justify why you chose to introduce the mechanic/s to the player in that sequence.
 
-You should restructure the headings below to match the order they appear in your level.
+- Acid is used in the first section of the level. Using parkour-like gameplay elements, it allows the player to learn and utilise the jumping mechanic. As they get familiar and complete section one, I have acid pools reoccuring in sections two and three.
 
-### 2.1. Acid
-- I used acid pools primarily in section one to allow the player to learn and utilise the jumping mechanic. As they get familiar and complete section one, I have acid pools reoccuring in sections two and three.
-
-### 2.2. Checkpoints
 - Checkpoints are in place for stress relief and saving the player's time to redo specific areas of sections.
 
-### 2.4. Health Pickups
 - Health pickups are placed in safe areas but some are more difficult to obtain. They may be guarded by spikes or enemies.
 
-### 2.5. Keys
-- I have one key in each section. The second key can be viewed from the early parts of the first section. This is to allow players to memorise the location of the keys so they know what to look for when they are close to it. The location of each key are in areas which can be easily skipped. This is to promote exploration of the player when they navigate throughout each section. 
-
-### 2.11. Weapon Pickup (Staff)
-- I have placed this at the beginning of the third section so that players now know they must use this weapon to kill the chompers.
-
-### 2.3. Chompers
-- Chompers are first encountered in the second section. They are placed after the staff weapon pickup so that the player understands they need to interact with the staff to kill off chompers.
-
-### 2.8. Spikes
-
-### 2.6. Moving Platforms
+- I have one key in each section. The second key can be viewed from the early parts of the first section. This is to allow players to memorise the location of the keys so they know what to look for when they are close to it. The location of each key are in areas which can be easily skipped. This is to promote exploration of the player when they navigate throughout each section.
 
 ### 2.7. Passthrough Platforms
-- Passthrough platforms are first encountered under the key door room.
+- Passthrough platforms are first encountered right before the first checkpoint of section two. Positioned directly under the trigger door for section three, its only usage is to catch players falling from the trigger door. This will prevent players from falling all the way down the vertical corridor.
+
+- I have placed this at the beginning of the second section so that players now know they must use this weapon to kill the chompers. 
+
+- Chompers are first encountered in the second section. They are placed after the staff weapon pickup so that the player understands they need to interact with the staff to kill off chompers.
+
+- Spikes are first introduced in the second phase. They add an extra layer of stress for the chompers and moving platforms.
+
+### 2.6. Moving Platforms
 
 ### 2.9. Spitters
 - Spitters are first introduced in the second section. Most are hidden in walls, unable to take damage so that the player are forced to dodge its green venom or else result in taking damage.
 
-## 3. Spatiotemporal Design
-A section on Spatiotemporal Design, which includes your molecule diagram and annotated level maps (one for each main section of your level). These diagrams may be made digitally or by hand, but must not be created from screenshots of your game. The annotated level maps should show the structure you intend to build, included game elements, and the path the player is expected to take through the level. Examples of these diagrams are included in the level design lectures.
-
-No additional words are necessary for this section (any words should only be within your images/diagrams).
- 
-### 3.1. Molecule Diagram
-
-### 3.2. Level Map – Section 1
-
-### 3.3.	Level Map – Section 2
-
-### 3.4.	Level Map – Section 3
+![Molecule Diagram sections 1 and 2](DocImages/MDs1&2.pdf)
+![Molecule Diagram section 3](DocImages/MDs3.pdf)
+![Design draft sections 1 and 2](DocImages/DDs1&s2.pdf)
+![Design draft section 3](DocImages/DDs3.pdf)
 
 ## 4. Iterative Design (~400 words)
 Reflect on how iterative design helped to improve your level. Additional prototypes and design artefacts should be included to demonstrate that you followed an iterative design process (e.g. pictures of paper prototypes, early grey-boxed maps, additional storyboards of later gameplay sequences, etc.). You can also use this section to justify design changes made in Unity after you drew your level design maps shown in section 3. 
