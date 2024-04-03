@@ -5,8 +5,6 @@
 
 This document discusses and reflects on the design of your platformer level for the Level Design assessment. It should be 1500 words. Make sure you delete this and all other instructional text throughout the document before checking your word count prior to submission. Hint: You can check word count by copying this text into a Word or Google doc.
 
-Your document must include images. To insert an image into your documentation, place it in the "DocImages" folder in this repo, then place the below text where you want the image to appear:
-
 ![Entire level zoomed out](DocImages/entireLevel.png)
 ![Section 1 part a](DocImages/s1PartA.png)
 ![Section 1 part b](DocImages/s1PartB.png)
@@ -19,6 +17,8 @@ Your document must include images. To insert an image into your documentation, p
 ![Section 3 part c](DocImages/s3PartC.png)
 
 ![Example 1](DocImages/1.mp4)
+![](DocImages/2.png)
+![](DocImages/2.1.png)
 
 
 ## 1. Player Experience (~700 words)
@@ -26,21 +26,21 @@ Outline and justify how your level design facilitates the core player experience
 
 ### 1.1. Discovery
 What does the player learn? How does your encounter and broader level design facilitate learning in a way that follows good design practice?
-For section one, The player learns about the jump mechanic. This knowledge is required because section one is a simple form of parkour with hazardous acid to jump over. If the player touches the acid, they will respawn back at the beginning or at any checkpoints the player has reached. The section starts off with small gaps of acid between each platform so that the player can easily get familiar with the controls. As they progress, the platforms will be wider apart. This is shown in EXAMPLE1 where the player does not jump far enough and falls into the acid pit. This will engage the player to learn that holding down spacebar will increase the player's jump height, resulting in more distance covered. There are also healthboxes underneath the first part of section one should the player take any damage.
+For section one, The player learns about the jump mechanic. This knowledge is required because section one is a simple form of parkour with hazardous acid to jump over. If the player touches the acid, they will respawn back at the beginning or at any checkpoints the player has reached. The section starts off with small gaps of acid between each platform so that the player can easily get familiar with the controls. As they progress, the platforms will be wider apart. This is shown in example one where the player does not jump far enough and falls into the acid pit. This will engage the player to learn that holding down spacebar will increase the player's jump height, resulting in more distance covered. There are also healthboxes underneath the first part of section one should the player take any damage. After that, players can then choose to start section two or continue forward to get the key.
 
 For section two, the player will encounter the staff weapon pickup. This entices them to understand that there will be chompers nearby and must use the staff to get rid of them. Players can also attempt to jump over the chompers, but then they will encounter spikes. Spikes are introduced in the second level as an extra obstacle for the players to avoid while battling chompers. Players will be punished for jumping over chompers in certain areas where there are spikes above them. After players complete the first part of section two, they will find the gun weapon. This will entice them to use the gun on nearby chompers, but also trigger switches as they are the only method to open doors. Thus, they will go and find which switches open up to the key door room and/or the key.
 
-Section three is a combination of both section one and two. After players complete the moving platform part, they will have to navigate through a tunnel-like environment full of obstacles and enemies. There is also a door that needs to be opened, encouraging players to go look for the switch. Players will also learn that not all platforms can be reached, since there are spikes physically blocking their path, players to realise they must go a specific way to navigate section three.
+Section three is a combination of both section one and two. After players complete the moving platform part, they will have to navigate through a tunnel-like environment full of obstacles and enemies. There is also a door that causes a loopback encounter. It is optional to open but will still encourage players to go look for the switch.
 
 ### 1.2. Drama
 What is the intensity curve? How does your design facilitate increasing yet modulating intensity, with moments of tension and relief?
 
-- The intensity curve is a graph that depicts the stress level for a videogame. For my level, I have structured my sections so that there is relief when obtaining a health box and maximum stress during the middle of the section. 
+For my level, I have structured my sections so that there is relief when obtaining a health box and is easier to collect
 
 ### 1.3. Challenge
 What are the main challenges? How have you designed and balanced these challenges to control the difficulty curve and keep the player in the flow channel?
-- Section 1
-In section 1, the main challenge is navigating to the end of the parkour without dying. It is testing the player's knowledge of the jump and movement controls. The difficulty is increased as the player progresses throughout the section by increasing the distance between platforms so that they would need to time their long jumps perfectly or else they will fall into acid.
+
+In section 1, the main challenge is navigating to the end of the parkour without dying. It is testing the player's knowledge of the jump and movement controls. The difficulty is increased as the player progresses throughout the section by increasing the distance between platforms so that they would need to time their long jumps perfectly or else they will fall into acid. Also, there is a checkpoint right before the key in section one, shown in s1PartB.png. This checkpoint prevents the player from deliberately falling into the acid to teleport back to the beginning of the parkour section. Instead, players must go back the way they came from.
 - Section 2
 For section two, the main challenge is opening the four mini-doors that lead to the key door room. I have carefully placed switches in areas where the player must use the gun weapon to shoot them. These switches are placed around section two. Some switches are behind more mini-doors, some require dodging spitter venom and some require jumping over spikes. 
 - Section 3
@@ -51,7 +51,7 @@ I have placed each key in a specific location of each section that requires the 
 
 ### 1.4. Exploration
 How does your level design facilitate autonomy and invite the player to explore? How do your aesthetic and layout choices create distinct and memorable spaces and/or places?
-The level has different paths to take, allowing decision making available for the player. For example, after completing the first half of section one, players can either progress to section two or continue on finding the key in section one.
+The level has different paths to take, allowing decision making available for the player. For example, after completing the first half of section one, players can either progress to section two or continue on finding the key in section one. This is shown in example two. Section three also promotes exploration as the player can take various paths to navigate around the level. The red arrows in example 2.1 determines the possible paths the player can take starting after the acid pool after the checkpoint.
 
 ## 2. Core Gameplay (~400 words)
 A section on Core Gameplay, where storyboards are used to outline how you introduce the player to each of the required gameplay elements in the first section of the game. Storyboards should follow the format provided in lectures.
