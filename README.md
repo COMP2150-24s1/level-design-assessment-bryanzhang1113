@@ -16,9 +16,9 @@ This document discusses and reflects on the design of your platformer level for 
 ![Section 3 part b](DocImages/s3PartB.png)
 ![Section 3 part c](DocImages/s3PartC.png)
 
-![Example 1](DocImages/1.mp4)
-![](DocImages/2.png)
-![](DocImages/2.1.png)
+![Example 1](DocImages/)
+![Example 2](DocImages/2.png)
+![Example 2.1](DocImages/2.1.png)
 
 
 ## 1. Player Experience (~700 words)
@@ -30,7 +30,7 @@ For section one, The player learns about the jump mechanic. This knowledge is re
 
 For section two, the player will encounter the staff weapon pickup. This entices them to understand that there will be chompers nearby and must use the staff to get rid of them. Players can also attempt to jump over the chompers, but then they will encounter spikes. Spikes are introduced in the second level as an extra obstacle for the players to avoid while battling chompers. Players will be punished for jumping over chompers in certain areas where there are spikes above them. After players complete the first part of section two, they will find the gun weapon. This will entice them to use the gun on nearby chompers, but also trigger switches as they are the only method to open doors. Thus, they will go and find which switches open up to the key door room and/or the key.
 
-Section three is a combination of both section one and two. After players complete the moving platform part, they will have to navigate through a tunnel-like environment full of obstacles and enemies. There is also a door that causes a loopback encounter. It is optional to open but will still encourage players to go look for the switch.
+Section three is a combination of both section one and two. After players complete the moving platform part, they will have to navigate through a tunnel-like environment full of obstacles and enemies. There is also a door that causes a loopback encounter. It is optional to open but will still encourage players to go look for the switch since it saves time to go back to the key door room. 
 
 ### 1.2. Drama
 What is the intensity curve? How does your design facilitate increasing yet modulating intensity, with moments of tension and relief?
