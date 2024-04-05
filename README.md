@@ -18,18 +18,19 @@
 ![Example 2](DocImages/2.png)
 ![Example 2.1](DocImages/2.1.png)
 ![Example 3](DocImages/3.png)
+![Example 4](DocImages/4.png)
 
 What does the player learn? How does your encounter and broader level design facilitate learning in a way that follows good design practice?
-For section one, The player learns about the jump mechanic. This knowledge is required because section one is a simple form of parkour with hazardous acid to jump over. The section starts off with small gaps of acid between each platform so that the player can easily get familiar with the controls. As they progress, the platforms will be wider apart. This is shown in the left image of "Example 1" where the player does not jump far enough and falls into the acid pit. This will engage the player to learn that holding down spacebar will increase the player's jump height, resulting in more distance covered. There are also healthboxes underneath the first part of section one should the player take any damage. After that, players can then choose to start section two or continue forward to get the key. The spikes shown in "Section 1 part b" are introduced to create a variation of the parkour that the player previously completed.
+For section one, The player learns about the jump mechanic. This knowledge is required because section one is a simple form of parkour with hazardous acid to jump over. The section starts off with small gaps of acid between each platform so that the player can easily get familiar with the controls. As they progress, the platforms will be wider apart. This is shown in the left image of "Example 1" where the player does not jump far enough and falls into the acid pit. This will engage the player to learn that holding down spacebar will increase the player's jump height, resulting in more distance covered. After that, players can then choose to start section two or continue forward to get the key. The spikes shown in "Section 1 part b" are introduced to create a variation of the parkour that the player previously completed.
 
-For section two, the player will encounter the staff weapon pickup. This entices them to understand that there will be chompers nearby and must use the staff to get rid of them. Players can also attempt to jump over the chompers but the spikes will punish, them shown in "Section 2 part a". After players complete the first part of section two, they will find the gun weapon. Similar to the staff, this informs players for upcoming enemies, but also trigger switches as they are the only method to open doors. Thus, they will go and find which switches open up to the key door room and/or the key. Some switches are behind more doors, some require getting past enemies and some require jumping over spikes. Since all doors and switches appear identical, players must memorise the connection between each door and switch. Some switches will trigger doors outside of player's camera screen. "Example 3" highlights all switch and door connections. After opening all four doors to the key door room, they can choose to open the door to section three or complete a small puzzle to unlock a loopback that leads near the gun pickup.
+For section two, the player will encounter the staff weapon pickup. This entices them to understand that there will be chompers nearby and must use the staff to get rid of them. Players can also attempt to jump over the chompers but the spikes will punish, them shown in "Section 2 part a". After players complete the first part of section two, they will find the gun weapon. Similar to the staff, this informs players for upcoming enemies, but also trigger switches as they are the only method to open doors. Thus, they will go and find which switches open up to the key door room and/or the key. Some switches are behind more doors, some require getting past enemies and some require jumping over spikes.
 
-Section three is a combination of both section one and two. In section three, players must memorise everything they have learnt from the previous two sections to explore it fully. It starts off with a small parkour with moving platforms, adding yet another variation of the first section. Then they will navigate through a large complex variant of the first part of section two. There is also a door that causes a loopback encounter near the staff pickup. This must be opened since players cannot physically go back to the key door room via moving platform parkour. Therefore, it encourages players to go look for the switch.
+Section three is a combination of both section one and two. In section three, players must memorise everything they have learnt from the previous two sections to explore it fully. It starts off with a small parkour with moving platforms, adding yet another variation of the first section. Then they will navigate through a large complex variant of the first part of section two.
 
 ### 1.2. Drama
 What is the intensity curve? How does your design facilitate increasing yet modulating intensity, with moments of tension and relief?
 
-For section one, intensity happens when
+For section one, intensity happens more in the 2nd part of section one. The spikes pressure the player as they have to position themselves more carefully. This is highlighted in "Example 4" where the player has to assume the hitboxes of spikes are not that wide. There are also healthboxes underneath the first part of section one should the player take any damage.
 
 For section two
 
@@ -38,18 +39,19 @@ For section three
 ### 1.3. Challenge
 What are the main challenges? How have you designed and balanced these challenges to control the difficulty curve and keep the player in the flow channel?
 
-In section 1, the main challenge is navigating to the end of the parkour without dying. It is testing the player's knowledge of the jump and movement controls. The difficulty is increased as the player progresses throughout the section by increasing the distance between platforms so that they would need to time their long jumps perfectly or else they will fall into acid. Also, there is a checkpoint right before the key in section one, shown in s1PartB.png. This checkpoint prevents the player from deliberately falling into the acid to teleport back to the beginning of the parkour section. Instead, players must go back the way they came from.
+In section 1, the main challenge is navigating to the end of the parkour without dying. It is testing the player's knowledge of the jump and movement controls. The difficulty is increased as the player progresses throughout the section by increasing the distance between platforms so that they would need to time their long jumps perfectly or else they will fall into acid. Also, there is a checkpoint right before the key in section one, shown in "Section 1 part b". This checkpoint prevents the player from deliberately falling into the acid to teleport back to the beginning of the parkour section. Instead, players must go back the way they came from.
 - Section 2
-For section two, the main challenge is getting past the spitters. All spitters in section two are trapped into the foreground tiles to make them invincible, shown in s2PartC.png. This forces the player to dodge their venom as it can traverse through the foreground tiles.
+For section two, the main challenges is opening the four doors that guard the key door room. Since all doors and switches appear identical, players will not always memorise the connection between every door and switch. Some switches will trigger doors outside of player's camera screen. "Example 3" highlights all switch and door connections.
+
+ getting past the spitters. All spitters in section two are trapped into the foreground tiles to make them invincible, shown in s2PartC.png. This forces the player to dodge their venom as it can traverse through the foreground tiles.
 - Section 3
-navigating through platforms through a tunnel-like underground environment while avoiding enemies and obstacles
-finding the switch to activate the door
-- Keys
-I have placed each key in a specific location of each section that requires the player to explore further should they choose to skip its path. I have placed areas where players can choose their own path to go through.  
+
+For section three, the main challenge is finding the switch to activate the door while navigating through a labyrinth. The labyrinth has various obstacles and enemies which the player must avoid. The door is a loopback encounter that leads near the staff pickup. Since players cannot physically go back to the key door room via moving platform parkour, it forces players to go look for the switch. The red arrows in "Example 2.1" determines the possible paths the player can take starting after the acid pool after the checkpoint.
 
 ### 1.4. Exploration
 How does your level design facilitate autonomy and invite the player to explore? How do your aesthetic and layout choices create distinct and memorable spaces and/or places?
-The level has different paths to take, allowing decision making available for the player. For example, after completing the first half of section one, players can either progress to section two or continue on finding the key in section one. This is shown in example two. Section three also promotes exploration as the player can take various paths to navigate around the level. The red arrows in example 2.1 determines the possible paths the player can take starting after the acid pool after the checkpoint.
+
+The level features loopbacks to encourage players to use for increased map navigation efficiency. After opening all four doors to the key door room, players can choose to open the door to section three or complete a small puzzle to unlock a loopback that leads near the gun pickup.
 
 ## 2. Core Gameplay (~400 words)
 A section on Core Gameplay, where storyboards are used to outline how you introduce the player to each of the required gameplay elements in the first section of the game. Storyboards should follow the format provided in lectures.
@@ -78,8 +80,8 @@ First shown in section two but is used more in section three.
 ### 2.9. Spitters
 - Spitters are first introduced in the second section. Most are hidden in walls, unable to take damage so that the player are forced to dodge its green venom or else result in taking damage.
 
-![Molecule Diagram sections 1](DocImages/MDs1.pdf)
-![Molecule Diagram sections 2](DocImages/MDs2.JPG)
+![Molecule Diagram section 1](DocImages/MDs1.pdf)
+![Molecule Diagram section 2](DocImages/MDs2.JPG)
 ![Molecule Diagram section 3](DocImages/MDs3.pdf)
 ![Design draft sections 1 and 2](DocImages/DDs1&s2.pdf)
 ![Design draft section 3](DocImages/DDs3.pdf)
@@ -89,7 +91,9 @@ Reflect on how iterative design helped to improve your level. Additional prototy
 
 You should conclude by highlighting a specific example of an encounter, or another aspect of your level design, that could be improved through further iterative design.
 
-I wanted to originallly follow the traditional process of 3 levels sequentially in order while making shortcuts to enter areas encountered beforehand. The iterative design process aided this by allowing me to continuously test each section and making sure they are equally connected. I have also make some changes in my final level sections that are not in my original sketches. For example, for section three, instead of a door and a switch, I was originally going to use a one-way platform. I wanted a way to make the player unable to jump back up without making the gap significantly tall. This is because I wish to design the level so that the player does not need to go back to complete section three. That is when the door comes into play. There were meant to be spikes in the first part of section one but I have removed them in my final design because I considered adding spikes will not make the section easy anymore. I originally wanted the player to see the section three key when obtaining section one key. This was later changed due to the addition of switches and doors. Moving platforms were also added in section three but were not in my original design. I added them to make section three more harder.
+I wanted to originallly follow the traditional process of 3 levels sequentially in order while making shortcuts to enter areas encountered beforehand. The iterative design process aided this by allowing me to continuously test each section and making sure they are equally connected. I have also make some changes in my final level sections that are not in my original sketches. Instead of a door and a switch, I was originally going to use a one-way platform for the final part of section three. I wanted a way to make the player unable to jump back up without making the gap significantly tall. This is because I wish to design the level so that the player does not need to go back to complete section three. That is when the door comes into play. I originally wanted the player to see the section three key when obtaining section one key. This was later changed due to the addition of switches and doors. Moving platforms were also added in section three but were not in my original design. I added them as an extra obstacle.
+
+Looking back at section two, I could have added a combination of boxes and pressure plates to open doors, not just switches. This allows one door or multiple doors to open for a specific amount of time and then close back. The addition of pressure plates increases challenge, discovery and exploration in section two as players will now have to find new ways to open doors.
 
 ## Generative AI Use Acknowledgement
 
