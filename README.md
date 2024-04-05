@@ -26,9 +26,9 @@ Outline and justify how your level design facilitates the core player experience
 
 ### 1.1. Discovery
 What does the player learn? How does your encounter and broader level design facilitate learning in a way that follows good design practice?
-For section one, The player learns about the jump mechanic. This knowledge is required because section one is a simple form of parkour with hazardous acid to jump over. If the player touches the acid, they will respawn back at the beginning or at any checkpoints the player has reached. The section starts off with small gaps of acid between each platform so that the player can easily get familiar with the controls. As they progress, the platforms will be wider apart. This is shown in example one where the player does not jump far enough and falls into the acid pit. This will engage the player to learn that holding down spacebar will increase the player's jump height, resulting in more distance covered. There are also healthboxes underneath the first part of section one should the player take any damage. After that, players can then choose to start section two or continue forward to get the key.
+For section one, The player learns about the jump mechanic. This knowledge is required because section one is a simple form of parkour with hazardous acid to jump over. If the player touches the acid, they will respawn back at the beginning or at any checkpoints the player has reached. The section starts off with small gaps of acid between each platform so that the player can easily get familiar with the controls. As they progress, the platforms will be wider apart. This is shown in example one where the player does not jump far enough and falls into the acid pit. This will engage the player to learn that holding down spacebar will increase the player's jump height, resulting in more distance covered. There are also healthboxes underneath the first part of section one should the player take any damage. After that, players can then choose to start section two or continue forward to get the key. If they wish to obtain the key, spikes are introduced to create a variation of the parkour that the player previously completed.
 
-For section two, the player will encounter the staff weapon pickup. This entices them to understand that there will be chompers nearby and must use the staff to get rid of them. Players can also attempt to jump over the chompers, but then they will encounter spikes. Spikes are introduced in the second level as an extra obstacle for the players to avoid while battling chompers. Players will be punished for jumping over chompers in certain areas where there are spikes above them. After players complete the first part of section two, they will find the gun weapon. This will entice them to use the gun on nearby chompers, but also trigger switches as they are the only method to open doors. Thus, they will go and find which switches open up to the key door room and/or the key.
+For section two, the player will encounter the staff weapon pickup. This entices them to understand that there will be chompers nearby and must use the staff to get rid of them. Players can also attempt to jump over the chompers, but then they will encounter spikes. Players will be punished for jumping over chompers in certain areas where there are spikes above them, shown in example 1. After players complete the first part of section two, they will find the gun weapon. This will entice them to use the gun on nearby chompers, but also trigger switches as they are the only method to open doors. Thus, they will go and find which switches open up to the key door room and/or the key.
 
 Section three is a combination of both section one and two. After players complete the moving platform part, they will have to navigate through a tunnel-like environment full of obstacles and enemies. There is also a door that causes a loopback encounter. It is optional to open but will still encourage players to go look for the switch since it saves time to go back to the key door room. 
 
@@ -60,27 +60,28 @@ Storyboards can be combined when multiple mechanics are introduced within a sing
 
 - Acid is used in the first section of the level. Using parkour-like gameplay elements, it allows the player to learn and utilise the jumping mechanic. As they get familiar and complete section one, I have acid pools reoccuring in sections two and three.
 
+Spikes are first introduced in the first section. They add an extra obstacle that players must avoid.
+
 - Checkpoints are in place for stress relief and saving the player's time to redo specific areas of sections.
 
 - Health pickups are placed in safe areas but some are more difficult to obtain. They may be guarded by spikes or enemies.
 
 - I have one key in each section. The second key can be viewed from the early parts of the first section. This is to allow players to memorise the location of the keys so they know what to look for when they are close to it. The location of each key are in areas which can be easily skipped. This is to promote exploration of the player when they navigate throughout each section.
 
-### 2.7. Passthrough Platforms
 - Passthrough platforms are first encountered right before the first checkpoint of section two. Positioned directly under the trigger door for section three, its only usage is to catch players falling from the trigger door. This will prevent players from falling all the way down the vertical corridor.
 
 - I have placed this at the beginning of the second section so that players now know they must use this weapon to kill the chompers. 
 
 - Chompers are first encountered in the second section. They are placed after the staff weapon pickup so that the player understands they need to interact with the staff to kill off chompers.
 
-- Spikes are first introduced in the second phase. They add an extra layer of stress for the chompers and moving platforms.
-
 ### 2.6. Moving Platforms
+First shown in section two but is used more in section three.
 
 ### 2.9. Spitters
 - Spitters are first introduced in the second section. Most are hidden in walls, unable to take damage so that the player are forced to dodge its green venom or else result in taking damage.
 
-![Molecule Diagram sections 1 and 2](DocImages/MDs1&2.pdf)
+![Molecule Diagram sections 1](DocImages/MDs1.pdf)
+![Molecule Diagram sections 2](DocImages/MDs2.JPG)
 ![Molecule Diagram section 3](DocImages/MDs3.pdf)
 ![Design draft sections 1 and 2](DocImages/DDs1&s2.pdf)
 ![Design draft section 3](DocImages/DDs3.pdf)
